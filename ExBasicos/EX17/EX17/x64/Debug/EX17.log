@@ -1,0 +1,5 @@
+﻿  Source1.cpp
+C:\Users\aga\Desktop\C++ Scripts\CPP-Progressivo\ExBasicos\EX17\EX17\Source1.cpp(37,19): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\aga\Desktop\C++ Scripts\CPP-Progressivo\ExBasicos\EX17\EX17\Source1.cpp(40,13): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\aga\Desktop\C++ Scripts\CPP-Progressivo\ExBasicos\EX17\EX17\Source1.cpp(41,12): warning C4305: '*=': truncation from 'double' to 'float'
+  EX17.vcxproj -> C:\Users\aga\Desktop\C++ Scripts\CPP-Progressivo\ExBasicos\EX17\x64\Debug\EX17.exe
